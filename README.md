@@ -1,4 +1,4 @@
-# Arya Murukesan
+# ARYA MURUKESAN
 
 ### Clinical Engineering · Biomechanics · Medical Devices
 
