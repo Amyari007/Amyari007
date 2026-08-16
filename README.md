@@ -1,6 +1,6 @@
 #                            ARYA MURUKESAN
 
-### Clinical Engineering · MedTech · Devices
+### Modelling · Building · Validating
 
 [Email](mailto:arya0079401@gmail.com) · [Portfolio](https://aryamurukesan.framer.website/)
 
