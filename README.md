@@ -28,7 +28,7 @@ Clinical measurement meets device engineering — instruments, validation pipeli
 - **MRI Stress Mapping** *(IIT Madras)* — optical flow + Neo-Hookean soft-tissue modelling
 
 **② Neuropathy, Pathology & Clinical Measurement**
-- **HEALER** — ESP32 multimodal neuropathy device, 2-wk volunteer trial → Best Biomedical Project, IEEE EMBS Kerala (₹7,500 grant)
+- **[HEALER](https://github.com/Amyari007/Healer-Diabetic-Neuropathy-Management-Device)** — ESP32 multimodal neuropathy device, 2-wk volunteer trial → Best Biomedical Project, IEEE EMBS Kerala (₹7,500 grant)
 - **Respiratory Monitor** *(IIT Madras)* — dual-sensor tidal-volume quantification
 - **Optical Blood Testing Device** — MAX30105-based non-invasive monitoring
 - **Melanoma Detection** — MATLAB image-processing pathology pipeline
