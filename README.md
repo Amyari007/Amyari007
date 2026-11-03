@@ -2,6 +2,9 @@
 
 ### Modelling · Building · Validating
 
+**M.Tech, Clinical Engineering** — IIT Madras  
+**B.Tech (Honours), Biomedical Engineering** · **Minor in Mechanical Engineering** — TKM Institute of Technology
+
 [LinkedIn](https://www.linkedin.com/in/arya-murukesan-amyari0079401) · [Portfolio](https://aryamurukesan.framer.website/)
 
 ---
