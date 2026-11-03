@@ -14,7 +14,7 @@ Clinical measurement meets device engineering — instruments, validation pipeli
 
 | | | |
 |---|---|---|
-| **12+** Projects | **4+** Domains | **3** Institutions |
+| **13+** Projects | **4+** Domains | **3** Institutions |
 | **10 SGPA** (Sem 7&8) | **9.25** CGPA (M.Tech) | **9.43** CGPA (B.Tech) |
 
 ---
