@@ -2,7 +2,7 @@
 
 ### Modelling · Building · Validating
 
-[Email](mailto:arya0079401@gmail.com) · [Portfolio](https://aryamurukesan.framer.website/)
+[LinkedIn](https://www.linkedin.com/in/arya-murukesan-amyari0079401) · [Portfolio](https://aryamurukesan.framer.website/)
 
 ---
 
@@ -41,12 +41,16 @@ Clinical measurement meets device engineering — instruments, validation pipeli
 - **Exoskeleton Regulatory Strategy** *(SCTIMST, in progress)* — CDSCO/IMDR pathway, IEC 80601-2-78, ISO 22523, ISO 14971
 - **CFRP Implant Manufacturing** — AWSJ optimisation via Response Surface Methodology
 
+**⑤ Software & Digital Tools — Self-Initiated**
+- **[CL25M Placement Tracker](https://github.com/Amyari007/CL25M_Placement_Tracker)** *(IIT Madras, live)* — placement-tracking web app for my 15-student M.Tech batch; React + TypeScript + Supabase (PostgreSQL row-level security), role-based access for students, admin & placement coordinators, PIN + registered-device sign-in, audit log → **133 automated tests passing**
+
 ---
 
 ## Leadership
 
 - **IEEE Chairperson, TKMIT** — launched CS chapter, grew membership 82→201 (+145%)
 - **IEEE EMBS Kerala — Event Lead** — led IGNIUM'24 (300+ students statewide); *Special Mention Award 2024*; college won *Max Awards Student Branch 2024*
+- **Placement Coordinator, M.Tech Clinical Engineering (IIT Madras, 2026–27)** — company outreach for BME/Clinical Engg profiles; built the batch's placement tracker
 - **Women Cell Head**, Units 320 & 700 · **Speech & Debate Club** (2023–25, 50+ students engaged)
 
 **Awards**: BIOMEDX'25 1st place · State Blood Donation Seminar 2nd (award from Minister Dr. R. Bindu) · National Integration Camp State Rank #1 · IEEE Sci-Art + Technical Article 1st prize (×2) · Best Outgoing Student, TKMIT 2021–25 (Gold Medal, ₹25,000 grant)
